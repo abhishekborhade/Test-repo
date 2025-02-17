@@ -1,7 +1,7 @@
 name: parameterized testing
 on: workflow_dispatch
 jobs:
-  info job:
+  info:
     runs on: ubuntu-latest
     steps:
       - name: Github context output

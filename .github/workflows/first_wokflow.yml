@@ -1,4 +1,4 @@
-name: fMy first workflow temp
+name: My first workflow temp
 on: workflow_dispatch
 jobs:
   first_job:
